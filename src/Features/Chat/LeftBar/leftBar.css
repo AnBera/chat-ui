@@ -1,0 +1,21 @@
+.list-item {
+    padding: 1em !important;
+    cursor: pointer;
+}
+
+.list-item:hover {
+    background-color: #f0f8ff;
+}
+.list-item-selected {
+    background-color: #f0f8ff;
+}
+
+.message-preview {
+    color: #696969;
+}
+
+.date {
+    float: right;
+    color: #696969;
+    font-size: .8em;
+}
